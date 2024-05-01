@@ -1,0 +1,2 @@
+Description:
+This repository contains Python code for solving the knapsack problem using various algorithms. We have implemented two approaches for the 0/1 knapsack problem: brute force and dynamic programming. Additionally, we have included an implementation for the fractional knapsack problem using the greedy algorithm. These algorithms were applied to a dataset representing a restaurant inventory consisting of 749 elements.
